@@ -3,13 +3,13 @@
 1. リポジトリをクローン
 
    ```sh
-   git clone https://github.com/wasabi-tr/textlint-sample.git
+   $ git clone https://github.com/wasabi-tr/textlint-sample.git
 
    ```
 
 2. 依存関係をインストール
 
-   ```
+   ```sh
    $ npm install
    ```
 
