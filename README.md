@@ -3,7 +3,7 @@
 1. リポジトリをクローン
 
    ```sh
-   git clone https://github.com/yourusername/textlint-sample-project.git
+   git clone https://github.com/wasabi-tr/textlint-sample.git
 
    ```
 
