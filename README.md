@@ -14,4 +14,3 @@
    ```
 
 3. VS Codeの[vscode-textlint](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint)という拡張機能をインストール
-# textlint-sample
