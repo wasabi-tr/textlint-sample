@@ -1,0 +1,18 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "prh": {
+      "rulePaths": ["./rules.yml"]
+    },
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": {
+      "preferInHeader": "",
+      "preferInBody": "ですます",
+      "preferInList": "である",
+      "strict": false
+    },
+    "spellcheck-tech-word": true,
+    "ja-hiragana-keishikimeishi": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "textlint-sample-project",
+  "version": "1.0.0",
+  "description": "Sample project for textlint configuration",
+  "scripts": {
+    "lint": "textlint '**/*.md'",
+    "format": "prettier --write '**/*.md'"
+  },
+  "engines": {
+    "node": ">=18.18.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.0",
+    "textlint": "^14.0.4",
+    "textlint-rule-ja-hiragana-keishikimeishi": "^1.1.0",
+    "textlint-rule-preset-ja-spacing": "^2.4.3",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.1",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
